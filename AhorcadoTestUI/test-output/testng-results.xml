@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="44303" started-at="2019-08-21T15:00:49Z" finished-at="2019-08-21T15:01:33Z">
+  <suite name="Default suite" duration-ms="80796" started-at="2019-09-23T22:51:39Z" finished-at="2019-09-23T22:53:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="44303" started-at="2019-08-21T15:00:49Z" finished-at="2019-08-21T15:01:33Z">
+    <test name="Default test" duration-ms="80796" started-at="2019-09-23T22:51:39Z" finished-at="2019-09-23T22:53:00Z">
       <class name="com.ahorcadoGame.AhorcadoNGTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="beforeMethod" is-config="true" duration-ms="5767" started-at="2019-08-21T15:00:49Z" finished-at="2019-08-21T15:00:55Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="beforeMethod" is-config="true" duration-ms="22518" started-at="2019-09-23T22:51:39Z" finished-at="2019-09-23T22:52:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="ganar_juego_palabra_perro()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="ganar_juego_palabra_perro" duration-ms="7727" started-at="2019-08-21T15:00:55Z" finished-at="2019-08-21T15:01:02Z">
+        <test-method status="FAIL" signature="ganar_juego_palabra_perro()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="ganar_juego_palabra_perro" duration-ms="8760" started-at="2019-09-23T22:52:01Z" finished-at="2019-09-23T22:52:10Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -54,43 +54,43 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ganar_juego_palabra_perro -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="afterMethod" is-config="true" duration-ms="721" started-at="2019-08-21T15:01:02Z" finished-at="2019-08-21T15:01:03Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="afterMethod" is-config="true" duration-ms="746" started-at="2019-09-23T22:52:10Z" finished-at="2019-09-23T22:52:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="beforeMethod" is-config="true" duration-ms="4569" started-at="2019-08-21T15:01:03Z" finished-at="2019-08-21T15:01:08Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="beforeMethod" is-config="true" duration-ms="7367" started-at="2019-09-23T22:52:11Z" finished-at="2019-09-23T22:52:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="ingreso_nombre_jugador_Nicolas()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="ingreso_nombre_jugador_Nicolas" duration-ms="2527" started-at="2019-08-21T15:01:08Z" finished-at="2019-08-21T15:01:10Z">
+        <test-method status="PASS" signature="ingreso_nombre_jugador_Nicolas()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="ingreso_nombre_jugador_Nicolas" duration-ms="2661" started-at="2019-09-23T22:52:18Z" finished-at="2019-09-23T22:52:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ingreso_nombre_jugador_Nicolas -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="afterMethod" is-config="true" duration-ms="712" started-at="2019-08-21T15:01:10Z" finished-at="2019-08-21T15:01:11Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="afterMethod" is-config="true" duration-ms="728" started-at="2019-09-23T22:52:21Z" finished-at="2019-09-23T22:52:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="beforeMethod" is-config="true" duration-ms="4386" started-at="2019-08-21T15:01:11Z" finished-at="2019-08-21T15:01:15Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="beforeMethod" is-config="true" duration-ms="19148" started-at="2019-09-23T22:52:22Z" finished-at="2019-09-23T22:52:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="ingreso_nombre_jugador_vacio()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="ingreso_nombre_jugador_vacio" duration-ms="2485" started-at="2019-08-21T15:01:15Z" finished-at="2019-08-21T15:01:18Z">
+        <test-method status="PASS" signature="ingreso_nombre_jugador_vacio()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="ingreso_nombre_jugador_vacio" duration-ms="2684" started-at="2019-09-23T22:52:41Z" finished-at="2019-09-23T22:52:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ingreso_nombre_jugador_vacio -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="afterMethod" is-config="true" duration-ms="718" started-at="2019-08-21T15:01:18Z" finished-at="2019-08-21T15:01:19Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="afterMethod" is-config="true" duration-ms="735" started-at="2019-09-23T22:52:44Z" finished-at="2019-09-23T22:52:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="beforeMethod" is-config="true" duration-ms="4633" started-at="2019-08-21T15:01:19Z" finished-at="2019-08-21T15:01:23Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="beforeMethod" is-config="true" duration-ms="4961" started-at="2019-09-23T22:52:44Z" finished-at="2019-09-23T22:52:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="perder_juego()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="perder_juego" duration-ms="9284" started-at="2019-08-21T15:01:23Z" finished-at="2019-08-21T15:01:33Z">
+        <test-method status="PASS" signature="perder_juego()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="perder_juego" duration-ms="9678" started-at="2019-09-23T22:52:49Z" finished-at="2019-09-23T22:52:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- perder_juego -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="afterMethod" is-config="true" duration-ms="727" started-at="2019-08-21T15:01:33Z" finished-at="2019-08-21T15:01:33Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ahorcadoGame.AhorcadoNGTest@475530b9]" name="afterMethod" is-config="true" duration-ms="748" started-at="2019-09-23T22:52:59Z" finished-at="2019-09-23T22:53:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
